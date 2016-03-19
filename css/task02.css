@@ -1,0 +1,160 @@
+
+body{
+	background: #dedede;
+	margin:0px;
+}
+#top {
+	height: 90px;
+	width:100%;
+	background: #28004D;
+	position: default;
+	top:0;
+}
+#top img{
+	height: 65px;
+	width: 150px;
+	padding-left: 60px;
+}
+#navbar{
+	float: right;
+	padding-top: 23px;
+	padding-right: 60px;
+}
+#navbar li{
+	display: inline;
+	float: left;
+}
+#navbar li a{
+	display: inline-block;
+	color: White;
+	text-decoration: none;
+	padding-right: 30px;
+	font-size: 14px;
+}
+.main {
+	margin: 30px;
+	padding: 20px;
+	background-color: white;
+	box-shadow: 3px 3px 3px #999999;
+}
+.picture_part{
+	margin: 30px;
+	padding: 20px;
+	background-color: white;
+	box-shadow: 3px 3px 3px #999999;
+}
+
+.h2_style{
+	font-size: 24px;
+	color: #272727;
+}
+.h3_style{
+	font-size: 18px;
+	color: #6C6C6C;
+}
+.author{
+	font-size: 14px;
+	color:	#8E8E8E;
+}
+#bottom{
+	height: 60px;
+	width:100%;
+	background: #28004D;
+	position: default;
+}
+
+#bottom p{
+	color: White;
+	font-size: 14px;
+	text-align:center;
+	padding-top: 23px;
+}
+.article_style{
+	font-family: 宋体;
+	font-size: 16px;
+	text-indent: 2em;
+	line-height:24px;
+}
+.article_img{
+	width: 300px;
+	height: 250px;
+}
+ #article2 ul li{
+ 	list-style-type:none;
+ 	line-height: 30px;
+ }
+#picture ul li{
+	width: 400px;
+	list-style-type:none;
+	border: 1px #ccc solid; 
+	box-sizing: border-box;
+	margin: 20px;
+	text-align: center;
+}
+#picture ul li img{
+	width: 300px;
+	height: 250px;
+	margin: 10px;
+}
+#table_style{
+	width: 100%;
+  	border-collapse: collapse;
+  	text-align: left;
+  	border: 0;
+}
+
+#table_style td, th{
+	border: 0; 
+	padding: 5px; 
+	border: 1px #ccc solid; 
+}
+#table_style thead th{
+	background: #333; color: #fff; 
+}
+#table_style tr:last-child{
+	background: #ccc; font-weight: bold
+}
+
+#aside h2{
+	border-left: 3px #ccc solid;
+	padding-left: 10px; 
+	font-size: 20px;
+}
+label {
+    font-size: 16px;
+    margin-right: 20px;
+    text-align: right;
+    width: 30%;
+    display: inline-block;
+}
+
+.tip {
+	width: 30%;
+    font-size: 14px;
+    color: #969696;
+}
+
+.form_group {
+    margin-left: 280px;
+    margin-top: 10px;
+}
+
+.form_group textarea {
+    margin-right: 0;
+    width: 600px;
+    height: 100px;
+}
+
+.form_group #self_detail {
+    vertical-align: top;
+}
+
+#aside .Submit {
+    margin: 20px;
+    color: White;
+  	text-align: center;
+  	height: 40px;
+  	width: 80%;
+  	background-color: Blue;
+  	border-radius: 10px;
+}
