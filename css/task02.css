@@ -122,14 +122,13 @@ body{
 }
 label {
     font-size: 16px;
-    margin-right: 20px;
     text-align: right;
     width: 30%;
     display: inline-block;
 }
 
 .tip {
-	width: 30%;
+    margin-left: 30%;
     font-size: 14px;
     color: #969696;
 }
@@ -150,11 +149,11 @@ label {
 }
 
 #aside .Submit {
-    margin: 20px;
+    margin-left: 10%;
     color: White;
-  	text-align: center;
-  	height: 40px;
-  	width: 80%;
-  	background-color: Blue;
-  	border-radius: 10px;
+    text-align: center;
+    height: 40px;
+    width: 80%;
+    background-color: Blue;
+    border-radius: 10px;
 }
