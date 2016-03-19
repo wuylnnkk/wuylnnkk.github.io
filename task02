@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Baidu_ife_task_01</title>
+    <link rel="stylesheet" type="text/css" href="task02.css">
+  </head>
+
+<body>
+	<header id="top">
+		<img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png"/>
+		<ul id="navbar">
+			<li><a href="#article1">文章一链接</a></li>
+			<li><a href="#article2">文章二链接</a></li>
+			<li><a href="#picture">图片链接</a></li>
+			<li><a href="#table">表格链接</a></li>
+		</ul>
+	</header>
+
+	<div class="main" id="article1">
+		<h2 class="h2_style">文章一级标题</h2>
+		<h3 class="h3_style">文章二级标题</h3>
+		<p class="autdor">文章作者 文章发表时间</p>
+		<p class="article_style">这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br/>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br/>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，<a href="http://ife.baidu.com">这里有一个链接,</a>这是一个很长的段落，这是一个很长的段落，<b>这是一个粗体字，</b>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落</p>
+		<img class="article_img" src="http://s0.nuomi.bdimg.com/upload/deal/2014/9/V_L/1799592-bgapyz7n4d-19193583051576176.jpg"/>
+		<p class="article_style">这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br/>这是一个很长的段落，这是一个很长的段落，<b>这是一个粗体字，</b>这是一个很长的段落，<a href="http://ife.baidu.com" target="_balck">这里有一个链接点击后打开新窗口</a>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落</p>
+	</div>
+	<div class="main" id="article2">
+		<h2 class="h2_style">另一篇文章的一级标题</h2>
+		<h3 class="h3_style">文章二级标题</h3>
+		<p class="autdor">文章作者 文章发表时间</p>
+		<p class="article_style">这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br/>
+		这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br/>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，<a href="http://ife.baidu.com">这里有一个链接,</a>这是一个很长的段落，这是一个很长的段落，<b>这是一个粗体字，</b>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落</p>
+		<img class="article_img" src="http://s0.nuomi.bdimg.com/upload/deal/2014/9/V_L/1799592-bgapyz7n4d-19193583051576176.jpg"/>
+		<ul>
+			<li><a href=""></a>列表项目一</li>
+			<li><a href=""></a>列表项目二</li>
+			<li><a href=""></a>列表项目三</li>
+		</ul>
+	</div>
+	<div class="picture_part" id="picture">
+		<h2 class="h2_style">图片</h2>
+		<ul>
+			<li>
+				<p>好看的图片</p>
+				<img src="http://s0.nuomi.bdimg.com/upload/deal/2014/9/V_L/1799592-bgapyz7n4d-19193583051576176.jpg"/>
+			</li>
+			<li>
+				<p>好看的图片</p>
+				<img src="http://s0.nuomi.bdimg.com/upload/deal/2014/9/V_L/1799592-bgapyz7n4d-19193583051576176.jpg"/>
+			</li>
+			<li>
+				<p>好看的图片</p>
+				<img src="http://s0.nuomi.bdimg.com/upload/deal/2014/9/V_L/1799592-bgapyz7n4d-19193583051576176.jpg"/>
+			</li>
+			<li>
+				<p>好看的图片</p>
+				<img src="http://s0.nuomi.bdimg.com/upload/deal/2014/9/V_L/1799592-bgapyz7n4d-19193583051576176.jpg"/>
+			</li>
+			<li>
+				<p>好看的图片</p>
+				<img src="http://s0.nuomi.bdimg.com/upload/deal/2014/9/V_L/1799592-bgapyz7n4d-19193583051576176.jpg"/>
+			</li>
+		</ul>
+	</div>
+	<div class="main" id="table">
+		<h2 class="h2_style">最后一篇文章的一级标题</h2>
+		<h3 class="h3_style">文章二级标题</h3>
+		<p class="autdor">文章作者 文章发表时间</p>
+		<ol>
+			<li>排名1</li>
+			<li>排名2</li>
+			<li>排名3</li>
+		</ol>
+		<p>下面是一个表格，给表格加了一个border=“1”好让你看出是一个表格</p>
+		<table id="table_style">
+			<thead>
+				<tr>
+					<th>表头</th>
+					<th>表头</th>
+					<th>表头</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="">操作</a></td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="">操作</a></td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="">操作</a></td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="">操作</a></td>
+				</tr>
+				<tr>
+					<td>总计</td>
+					<td colspan="2">1000</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div class="main" id="aside">
+		<h2>这里以后是一个侧栏，这是侧栏的标题</h2>
+			<form>
+                <div class="form_group">
+                    <label>请输入邮箱地址：</label><input type="text" placeholder="这是一个文本框..." />
+                    <p class="tip">邮箱地址请按要求格式输入</p>
+                </div>
+                <div class="form_group">
+                    <label>请输入密码：</label><input type="password" placeholder="这是一个文本框..."/>
+                </div>
+                <div class="form_group">
+                    <label>请重复输入密码：</label><input type="password" placeholder="这是一个文本框..."/>
+                    <p class="tip">密码请为6-16位英文数字</p>
+                </div>
+                <div class="form_group">
+                    <label>性别：</label><input type="radio" name="sex" value="male" />男&nbsp;<input type="radio" name="sex" value="female" />女
+                </div>
+                <div class="form_group">
+                    <label>城市：</label>
+                    <select>
+                        <option>北京</option>
+                        <option>武汉</option>
+                        <option>上海</option>
+                    </select>
+                </div>
+                <div class="form_group">
+                    <label>爱好：</label>
+                    <input type="checkbox" name="like" />运动
+                    <input type="checkbox" name="like" />艺术
+                    <input type="checkbox" name="like" />科学
+                </div>
+                <div class="form_group">
+                    <label id="self_detail">个人描述：</label><textarea placeholder="这是一个多行输入框，输入您的个人描述"></textarea>
+                </div>
+               	<input type="submit" value="确认提交" class="Submit">
+            </form>
+			
+		</div>
+		
+	</div>
+
+	<footer id="bottom">
+		<p>版权所有&copy;</p>
+	</footer>
+	
+
+</html>
